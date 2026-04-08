@@ -2,6 +2,10 @@
 
 버킷리스트를 기록하고, 자동으로 정리해 나만의 포토북으로 주문까지 연결해주는 웹 서비스입니다.
 
+<p align="center">
+  <img width="1430" height="806" alt="image" src="https://github.com/user-attachments/assets/72d4c699-38bc-41c7-9386-4210d11be885" />
+</p>
+
 ---
 
 ## 1. 서비스 소개
