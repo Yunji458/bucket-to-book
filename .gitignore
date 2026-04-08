@@ -1,3 +1,13 @@
+# Environment variables
+.env
+
+# IDE
+.idea/
+*.iml
+
+# Windows
+desktop.ini
+
 # Compiled class file
 *.class
 
